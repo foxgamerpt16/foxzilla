@@ -1,0 +1,23 @@
+{
+  "name": "foxzilla",
+  "version": "1.0.0",
+  "description": "FoX#6330",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "FoX#6330",
+  "contributors": [
+    "Yuichiro#0001 (https://github.com/Uplodading-Team)"
+  ],
+  "license": "",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
+    "duck-duck-scrape": "^1.0.3",
+    "enmap": "^5.2.4",
+    "git": "^0.1.5",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {}
+}
